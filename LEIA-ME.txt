@@ -1,5 +1,5 @@
 Expedição Brasil — O rio chega diferente
-Fonte: 9a63aee07566a0bdb1f6b8c5e1633d498d6fcc71
+Fonte: 0f230583c00edaaaefde9eca640486fafb79fb14
 
 Avaliação pedagógica isolada. Registros fictícios e artes ainda em avaliação.
 A partida fica somente na memória da página; não há login, API ou salvamento.

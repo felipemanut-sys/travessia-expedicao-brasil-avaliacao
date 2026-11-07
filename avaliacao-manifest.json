@@ -1,17 +1,16 @@
 {
   "schema": "EXPEDICAO_RASTROS_EVALUATION_ARTIFACT_V1",
-  "sourceCommit": "9a63aee07566a0bdb1f6b8c5e1633d498d6fcc71",
+  "sourceCommit": "0f230583c00edaaaefde9eca640486fafb79fb14",
   "sourceHashes": {
-    "app/visual/expedicao-brasil-rastros/page.tsx": "c34ab01dea972e7e712c27b95442c1b33c31af73e3ed41e88142f355ce912879",
-    "app/visual/expedicao-brasil-rastros/page.module.css": "560abb00105d59d2447f16113cc32428e3571d840d8d95287853aa7046cd6600",
+    "app/visual/expedicao-brasil-rastros/page.tsx": "8f6b7b523331d22383efd8edde8049115bc6aadcf55dd09ffb24d395d7d3cc6f",
+    "app/visual/expedicao-brasil-rastros/page.module.css": "edcb6d188974d7be3970c88221ff5cecd3394092115e32837fa0528e0f60f52e",
+    "lib/games/pilots/expedicao-brasil-rastros/case.mjs": "5815bfba33455e894228682632ff5d3323534c2fce23a8a81cda965ad35fa908",
+    "lib/games/pilots/expedicao-brasil-rastros/investigation.mjs": "a2e3a2e996ad4638427677e002fb84c1dad748a461a4a6aeeca6f6366fe73025",
     "lib/games/pilots/expedicao-brasil-rastros/geometry.mjs": "783fc816424b66aa9011e2e60ebd7c88dbd59f0b8584814b1f58ea0164ec0651",
     "lib/games/pilots/expedicao-brasil-rastros/map-geometry.json": "24a70ad486b46d3482caec685d76a2ecbf7a2c2d057412257a956d6a8f8c9809"
   },
-  "sourceWorkingTreeChanges": [
-    "app/visual/expedicao-brasil-rastros/page.tsx",
-    "lib/games/pilots/expedicao-brasil-rastros/geometry.mjs"
-  ],
-  "createdAt": "2026-11-06T10:41:01.449Z",
+  "sourceWorkingTreeChanges": [],
+  "createdAt": "2026-11-07T03:52:13.086Z",
   "build": "Vite somente do componente da missão; sem Vinext SSR ou Cloudflare",
   "entry": "index.html",
   "storage": "Somente memória da página; recarregar ou voltar ao início reinicia a partida.",
@@ -39,14 +38,14 @@
       "sha256": "ffb332c6e3520b63cd2e39aebf9b5e3f2b16db4ec2ed831b22e07011668ef06c"
     },
     {
-      "path": "assets/index-BytFEaXR.js",
-      "bytes": 282117,
-      "sha256": "2c4909b8c703d8111e3dc4f459e420bf2ad96ee11e6a1ad39e965b38e47e3134"
+      "path": "assets/index-9cFr1nRj.css",
+      "bytes": 150436,
+      "sha256": "8966aff9e3342d02cefaa1d01eadad825a70edfaf4b7083364e4f96450d4e8b3"
     },
     {
-      "path": "assets/index-twi8i1rj.css",
-      "bytes": 149671,
-      "sha256": "76e2ac887787bc0f6b5cbb894634b6b3b52576e2ee04cbe1ef8b46369ff77071"
+      "path": "assets/index-CAf_Jmbe.js",
+      "bytes": 283200,
+      "sha256": "c643dc5b759a23f96e84781a4e2c2bdef0d82d465bdd68e2f5b6fb25a2e6f4ab"
     },
     {
       "path": "assets/inter-cyrillic-400-normal-HOLc17fK.woff",
@@ -334,6 +333,21 @@
       "sha256": "d1bcf1807888e85901bd0fd6f712c5661846ae44d24298c4179b7e7068a77282"
     },
     {
+      "path": "assets/ponte-antes-0800-CBJM7ZcR.png",
+      "bytes": 3223789,
+      "sha256": "39d4636f670db46f272402eb6db063a3f69c68978728973a6377fff22b01ff32"
+    },
+    {
+      "path": "assets/ponte-depois-1600-DMdwVXOO.png",
+      "bytes": 3119668,
+      "sha256": "93e86fb1dfcdd14a1ad29b49cb67640c002509cd146fce6438eb59b8a6cc4050"
+    },
+    {
+      "path": "assets/ponte-durante-1340-BTZvOxX-.png",
+      "bytes": 3315141,
+      "sha256": "e45d9aa91158069b7b4d5092472769124b68ea3095400c104ca2e6ae86f4b819"
+    },
+    {
       "path": "assets/poppins-devanagari-500-normal-BIdkeU1p.woff2",
       "bytes": 39084,
       "sha256": "f018c9ad67dc6c2ca9743ba407d879a251e778bfb3f1cced9dd59a9214ea0350"
@@ -426,7 +440,7 @@
     {
       "path": "index.html",
       "bytes": 838,
-      "sha256": "59f4a46133c191a91d610c5bca2912636c9fc952ae6d51f7307c1e2f75c837f9"
+      "sha256": "6e8c10a8019c60c9857193e6c1dc5bade7bfff6388cbb6b24ba1364cc7c6b5d7"
     },
     {
       "path": "robots.txt",
