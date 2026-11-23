@@ -1,9 +1,9 @@
 # Expedição Brasil — O rio chega diferente
 
-Prévia estática isolada para avaliação pedagógica.
+Prévia estática isolada para avaliação pedagógica da Etapa 7.4.
 
-- Origem: [PR #981](https://github.com/felipemanut-sys/travessia-portal/pull/981), commit `2653bfb913d4d066842e10dd311ff16bf31bdf70`.
-- Pacote isolado da missão: 24 arquivos, com os três quadros do Vale em WebP e a correção do cabeçalho em telas baixas.
-- Em 320 × 568, foi verificado o clique no Mapa com pistas abertas. A investigação completa segue sem homologação nessa resolução pela dificuldade de selecionar a encosta na etapa de hipótese.
+- Fonte: [PR #981](https://github.com/felipemanut-sys/travessia-portal/pull/981), commit `77cc87025a6e85dd5dcd5dcaf520f33bc0795ba2`.
+- A seleção de um marco e a abertura do painel de registros são gestos independentes. As duas ordens de investigação foram concluídas por toque emulado em 320 × 568.
+- Pendências de layout: rolagem interna no painel de hipótese em 320 × 568 e corte parcial do botão **Voltar à cidade** em 768 × 1024.
 
 https://felipemanut-sys.github.io/travessia-expedicao-brasil-avaliacao/

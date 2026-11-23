@@ -1,13 +1,13 @@
 Expedição Brasil — O rio chega diferente
-Fonte: 2653bfb913d4d066842e10dd311ff16bf31bdf70
+Fonte: 77cc87025a6e85dd5dcd5dcaf520f33bc0795ba2
 
 Avaliação pedagógica isolada. Registros fictícios e artes ainda em avaliação.
 A partida fica somente na memória da página; não há login, API ou salvamento.
 
-Para jogar localmente: extraia o ZIP, abra um terminal nesta pasta e execute:
+Para jogar localmente: abra um terminal nesta pasta e execute:
 python3 -m http.server 4190 --bind 127.0.0.1
 Depois abra http://127.0.0.1:4190/ em um navegador.
 Use HTTP; abrir index.html diretamente por file:// não é suportado.
 
 Pode ser servido como site estático na raiz ou em subpasta.
-Nenhuma hospedagem ou publicação é executada por este pacote.
+Prévia isolada publicada no GitHub Pages.

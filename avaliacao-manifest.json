@@ -1,14 +1,14 @@
 {
   "schema": "EXPEDICAO_RASTROS_EVALUATION_ARTIFACT_V2",
-  "sourceCommit": "2653bfb913d4d066842e10dd311ff16bf31bdf70",
+  "sourceCommit": "77cc87025a6e85dd5dcd5dcaf520f33bc0795ba2",
   "sourceHashes": {
-    "app/visual/expedicao-brasil-rastros/page.tsx": "9f17c179a59443f83d4a09a2ebfd92682c255d61c3b60cf065245dace61327e1",
-    "app/visual/expedicao-brasil-rastros/page.module.css": "127322aaeff3e2ff101dc72a38dd49e27b1d2035640cb365cd7c7ad987783a81",
+    "app/visual/expedicao-brasil-rastros/page.tsx": "2631df6358f9a6fa2ac6869a2dd9804efe03f840e5aa44031f6b4b818f313714",
+    "app/visual/expedicao-brasil-rastros/page.module.css": "3b9440f643b89563838338049c1433128de19ef60179eaaf1ffc9002464e077a",
     "lib/games/pilots/expedicao-brasil-rastros/case.mjs": "5815bfba33455e894228682632ff5d3323534c2fce23a8a81cda965ad35fa908",
     "lib/games/pilots/expedicao-brasil-rastros/investigation.mjs": "2b7f8715a84e7464e6573715f2a8057842e7a8c0fdb510df7e003cae5ce3a65e",
     "lib/games/pilots/expedicao-brasil-rastros/observation.mjs": "452a534b42f666ea1e149dd5ce975c600d259b31b90f307a7d2da688231c86cd",
     "lib/games/pilots/expedicao-brasil-rastros/hypothesis.mjs": "a0e73cb5c2b0637b58dcad68e1b6cf680497aac4899fa6db6f319e6e52deb8cb",
-    "lib/games/pilots/expedicao-brasil-rastros/reconstruction.mjs": "7399642a7a0320564613e197fe2849b936fa428b60a778113930e6e0dcc419d0",
+    "lib/games/pilots/expedicao-brasil-rastros/reconstruction.mjs": "dc9cc826488d287317c2c7cc84537e5b6deb3639187063a752632d4cd291735b",
     "lib/games/pilots/expedicao-brasil-rastros/geometry.mjs": "783fc816424b66aa9011e2e60ebd7c88dbd59f0b8584814b1f58ea0164ec0651",
     "lib/games/pilots/expedicao-brasil-rastros/map-geometry.json": "24a70ad486b46d3482caec685d76a2ecbf7a2c2d057412257a956d6a8f8c9809",
     "lib/games/pilots/expedicao-brasil-rastros/art-assets.json": "55cadd95719bf509cced4e7e5eb2950ee3a2e1167b0c792ac96e246ab4700401",
@@ -21,12 +21,12 @@
     "scripts/build-expedicao-brasil-rastros-avaliacao.mjs": "fb2d66ea3e1f396e2fb685940f356ca864293bbd392a21979ac9d2fc94aa040d"
   },
   "sourceWorkingTreeChanges": [],
-  "createdAt": "2026-11-23T14:58:48.857Z",
+  "createdAt": "2026-11-23T16:05:36.092834+00:00",
   "build": "Vite somente do componente da missão; sem Vinext SSR ou Cloudflare",
   "entry": "index.html",
   "storage": "Somente memória da página; recarregar ou voltar ao início reinicia a partida.",
   "adapter": "O link de saída volta ao início da avaliação; o código do Portal não é alterado.",
-  "publication": "Não publicado. Hospedagem externa depende de autorização.",
+  "publication": "Prévia pública isolada via GitHub Pages.",
   "images": [
     {
       "id": "cidade-agua-mask",
@@ -414,7 +414,7 @@
     "masterImageBytes": 33175571,
     "runtimeImageBytes": 17412291,
     "runtimeFontBytes": 120308,
-    "buildFilesBytes": 17935157,
+    "buildFilesBytes": 17932923,
     "imageSavingsBytes": 15763280,
     "imageSavingsPercent": 47.51
   },
@@ -440,14 +440,14 @@
       "sha256": "a4773f0054fa2bf571d8edca6eb37d9da98f88f4534461e1d88a63dc650df4ca"
     },
     {
-      "path": "assets/index--CERGrTn.css",
-      "bytes": 120904,
-      "sha256": "0cc46bce17115d28023b620b5556cdeacf69959089211c552fc7955a0bb5d9ea"
+      "path": "assets/index-CCAaALtT.css",
+      "bytes": 120913,
+      "sha256": "2011d493f268b07b98610ac37c126e504bef0812c29758dd81527c49336bbba6"
     },
     {
-      "path": "assets/index-BCggeenH.js",
-      "bytes": 280790,
-      "sha256": "e5853d24e7ab9d6a53138fb7caf3e919301429c25500607a8433d46386218b5c"
+      "path": "assets/index-Cynfrd14.js",
+      "bytes": 278547,
+      "sha256": "33a5c00bef51bb6343add60bbbf8b42c7eb433a943898e1c14dcc312b8df8972"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -522,7 +522,7 @@
     {
       "path": "index.html",
       "bytes": 838,
-      "sha256": "1fef1465614a487ebf3ad1808bb5e8dda15054e8ae27620dfeddd047d4213ef9"
+      "sha256": "d892174aad6f875045a1854e46212a2522a33295fe192c423d991c8bd3639829"
     },
     {
       "path": "robots.txt",
