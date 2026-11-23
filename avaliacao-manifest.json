@@ -1,9 +1,9 @@
 {
   "schema": "EXPEDICAO_RASTROS_EVALUATION_ARTIFACT_V2",
-  "sourceCommit": "77cc87025a6e85dd5dcd5dcaf520f33bc0795ba2",
+  "sourceCommit": "60cef88915d4ba350009857aa152f9491190a6c7",
   "sourceHashes": {
-    "app/visual/expedicao-brasil-rastros/page.tsx": "2631df6358f9a6fa2ac6869a2dd9804efe03f840e5aa44031f6b4b818f313714",
-    "app/visual/expedicao-brasil-rastros/page.module.css": "3b9440f643b89563838338049c1433128de19ef60179eaaf1ffc9002464e077a",
+    "app/visual/expedicao-brasil-rastros/page.tsx": "b2add19eecc31fe8d90ccfd1ca5939a46a679f00e3dd7f7d4e4ad17e21d1882c",
+    "app/visual/expedicao-brasil-rastros/page.module.css": "bd91ad085fd9eb0165ec58ffdf0ae5132781311fb4f756854aee59875663559d",
     "lib/games/pilots/expedicao-brasil-rastros/case.mjs": "5815bfba33455e894228682632ff5d3323534c2fce23a8a81cda965ad35fa908",
     "lib/games/pilots/expedicao-brasil-rastros/investigation.mjs": "2b7f8715a84e7464e6573715f2a8057842e7a8c0fdb510df7e003cae5ce3a65e",
     "lib/games/pilots/expedicao-brasil-rastros/observation.mjs": "452a534b42f666ea1e149dd5ce975c600d259b31b90f307a7d2da688231c86cd",
@@ -21,12 +21,12 @@
     "scripts/build-expedicao-brasil-rastros-avaliacao.mjs": "fb2d66ea3e1f396e2fb685940f356ca864293bbd392a21979ac9d2fc94aa040d"
   },
   "sourceWorkingTreeChanges": [],
-  "createdAt": "2026-11-23T16:05:36.092834+00:00",
+  "createdAt": "2026-11-23T16:58:51.711187+00:00",
   "build": "Vite somente do componente da missão; sem Vinext SSR ou Cloudflare",
   "entry": "index.html",
   "storage": "Somente memória da página; recarregar ou voltar ao início reinicia a partida.",
   "adapter": "O link de saída volta ao início da avaliação; o código do Portal não é alterado.",
-  "publication": "Prévia pública isolada via GitHub Pages.",
+  "publication": "Prévia pública isolada da Etapa 7.5 via GitHub Pages.",
   "images": [
     {
       "id": "cidade-agua-mask",
@@ -414,7 +414,7 @@
     "masterImageBytes": 33175571,
     "runtimeImageBytes": 17412291,
     "runtimeFontBytes": 120308,
-    "buildFilesBytes": 17932923,
+    "buildFilesBytes": 17932176,
     "imageSavingsBytes": 15763280,
     "imageSavingsPercent": 47.51
   },
@@ -440,14 +440,14 @@
       "sha256": "a4773f0054fa2bf571d8edca6eb37d9da98f88f4534461e1d88a63dc650df4ca"
     },
     {
-      "path": "assets/index-CCAaALtT.css",
-      "bytes": 120913,
-      "sha256": "2011d493f268b07b98610ac37c126e504bef0812c29758dd81527c49336bbba6"
+      "path": "assets/index-BM0Whcjn.css",
+      "bytes": 119812,
+      "sha256": "0fdf611e783b43038045c29a2d4610a2c11b11ef7bd1daccde99465a69746de0"
     },
     {
-      "path": "assets/index-Cynfrd14.js",
-      "bytes": 278547,
-      "sha256": "33a5c00bef51bb6343add60bbbf8b42c7eb433a943898e1c14dcc312b8df8972"
+      "path": "assets/index-f5kCfFG7.js",
+      "bytes": 278901,
+      "sha256": "6dd2fc76eb8d313e39982cb68887b46fd6d30316088803b5f0bf4f4c57f18681"
     },
     {
       "path": "assets/inter-latin-400-normal-C38fXH4l.woff2",
@@ -522,7 +522,7 @@
     {
       "path": "index.html",
       "bytes": 838,
-      "sha256": "d892174aad6f875045a1854e46212a2522a33295fe192c423d991c8bd3639829"
+      "sha256": "845f8d0e47a7106e63228f55c3702526bee6c88fdc9706fd8c9bc9ae9c1e8954"
     },
     {
       "path": "robots.txt",
