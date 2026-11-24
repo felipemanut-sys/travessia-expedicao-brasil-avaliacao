@@ -1,13 +1,12 @@
 Expedição Brasil — O rio chega diferente
-Fonte: 60cef88915d4ba350009857aa152f9491190a6c7
+Navegação guiada · Etapas 7.6A e 7.6B
+Fonte fb7e0274cbf566d15e453c711a881670a7ec29b7
 
-Avaliação pedagógica isolada. Registros fictícios e artes ainda em avaliação.
-A partida fica somente na memória da página; não há login, API ou salvamento.
+A partida fica na memória da página. Os registros da missão são fictícios.
 
-Para jogar localmente: abra um terminal nesta pasta e execute:
+Para jogar localmente, execute nesta pasta:
 python3 -m http.server 4190 --bind 127.0.0.1
-Depois abra http://127.0.0.1:4190/ em um navegador.
-Use HTTP; abrir index.html diretamente por file:// não é suportado.
+Em seguida, abra http://127.0.0.1:4190/ em um navegador.
 
-Pode ser servido como site estático na raiz ou em subpasta.
-Prévia isolada publicada no GitHub Pages.
+Prévia pública
+https://felipemanut-sys.github.io/travessia-expedicao-brasil-avaliacao/
